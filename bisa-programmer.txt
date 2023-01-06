@@ -1,0 +1,4 @@
+BISA PROGRAMMER
+- belajar basic programming
+- ngerti basic programming
+- ngerti penggunaan git dan github
