@@ -2,3 +2,4 @@ BISA PROGRAMMER
 - belajar basic programming
 - ngerti basic programming
 - ngerti penggunaan git dan github
+- bisa jadi front end developer
